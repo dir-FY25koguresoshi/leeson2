@@ -1,6 +1,6 @@
-public class sample2 {
+public class sample {
 
-    public static void sample2(String[] args) {
+    public static void Test3(String[] args) {
         // 1日の秒数 = 24時間 x 60分 x 60秒
         var secondsPerDay = 24 * 60 * 60; // * は 掛け算を意味する記号
 
